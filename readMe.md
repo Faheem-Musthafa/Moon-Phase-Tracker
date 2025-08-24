@@ -47,6 +47,9 @@ Astronomical algorithms – J2000 epoch + cosine illumination for accuracy
 
 Today’s Moon Phase
 
+<img width="1919" height="1120" alt="image" src="https://github.com/user-attachments/assets/4d30632e-1181-4210-b873-d7d33bb62ce3" />
 
 
 7-Day Forecast
+
+<img width="1919" height="1155" alt="image" src="https://github.com/user-attachments/assets/148d1fb3-0129-478a-9625-a62c19b6f4dc" />
